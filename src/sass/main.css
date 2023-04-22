@@ -1,0 +1,14 @@
+.conatiner {
+  padding: 20px;
+}
+
+.tooltip:hover {
+  border: 2px solid #159c3d;
+}
+
+.tooltip_text {
+  visibility: hidden;
+  background-color: #cde14e;
+  padding: 5px;
+  font-size: 12px;
+}/*# sourceMappingURL=main.css.map */
